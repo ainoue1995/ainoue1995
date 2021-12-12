@@ -13,7 +13,7 @@ Frontend engineer working for a startup in Tokyo
 [![JavaScript Badge](https://img.shields.io/badge/-Javascript-F7DF1E.svg?logo=javascript&style=plastic)](https://github.com/ainoue1995)
 [![TypeScript Badge](https://img.shields.io/badge/-Typescript-007ACC.svg?logo=typescript&style=plastic)](https://github.com/ainoue1995)
 [![Python Badge](https://img.shields.io/badge/-Python-F7F7F7.svg?logo=python&style=plastic)](https://github.com/ainoue1995)
-[![PHP Badge](https://img.shields.io/badge/-Php-white.svg?logo=php&style=plastic)](https://github.com/ainoue1995)
+[![PHP Badge](https://img.shields.io/badge/-php-white.svg?logo=php&style=plastic)](https://github.com/ainoue1995)
 
 [![React Badge](https://img.shields.io/badge/-React-F7F7F7.svg?logo=react&style=plastic)](https://github.com/ainoue1995)
 [![Next.js Badge](https://img.shields.io/badge/-Next.js-000000.svg?logo=next.js&style=plastic)](https://github.com/ainoue1995)
